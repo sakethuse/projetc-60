@@ -56,7 +56,7 @@ h2 {
 }
 
 .link {
-/* Make the menu items float left*/
+   float: left;
   
 }
 
